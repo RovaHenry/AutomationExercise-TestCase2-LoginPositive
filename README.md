@@ -14,6 +14,7 @@ Key Steps:
 
 Tools & Technologies:
 Automation Framework: Selenium WebDriver
+
 Programming Language: JavaScript
 Test Runner/Environment: Mocha
 
