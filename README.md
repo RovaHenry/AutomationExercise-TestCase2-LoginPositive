@@ -1,8 +1,10 @@
 # AutomationExercise-TestCase2-LoginPositive
 Test Case 2: Login with Correct Input
+
 This repository contains the automated test script for Test Case 2: Login with Correct Input from Automation Exercise.
 
 Test Case Overview:
+
 The objective of this test is to verify that a user can successfully log in to the application using valid credentials. It ensures that the login functionality is working as expected and redirects the user to the correct page upon successful authentication.
 
 Key Steps:
